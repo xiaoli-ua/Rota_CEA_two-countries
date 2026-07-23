@@ -11,24 +11,69 @@ authors:
     given-names: Xiao
     affiliation: "CHERMID, University of Antwerp, Belgium"
     email: xiao.li@uantwerpen.be
+    orcid: "https://orcid.org/0000-0002-1918-1791"
   - family-names: Bilcke
     given-names: Joke
     affiliation: "CHERMID, University of Antwerp, Belgium"
+    orcid: "https://orcid.org/0000-0001-5720-5291"
   - family-names: Asare
     given-names: "Ernest O."
     affiliation: "Yale University, USA"
+    orcid: "https://orcid.org/0000-0003-4078-8755"
   - family-names: Wenger
     given-names: "Catherine G. C."
     affiliation: "Yale University, USA"
+    orcid: "https://orcid.org/0009-0002-5564-0630"
   - family-names: Pitzer
     given-names: "Virginia E."
     affiliation: "Yale University, USA"
+    orcid: "https://orcid.org/0000-0003-1015-2289"
   - family-names: Beutels
     given-names: Philippe
     affiliation: "CHERMID, University of Antwerp, Belgium"
+    orcid: "https://orcid.org/0000-0001-5034-3595"
 keywords:
   - cost-effectiveness analysis
   - rotavirus vaccine
   - Malawi
   - Ghana
   - health economics
+preferred-citation:
+  type: article
+  title: "Cost-Effective Threshold Price for Alternative Infant and Neonatal Rotavirus Vaccines: A Dual-Country Evaluation"
+  authors:
+    - family-names: Li
+      given-names: Xiao
+      orcid: "https://orcid.org/0000-0002-1918-1791"
+    - family-names: Asare
+      given-names: "Ernest O."
+      orcid: "https://orcid.org/0000-0003-4078-8755"
+    - family-names: Kwon
+      given-names: Jiye
+      orcid: "https://orcid.org/0000-0002-2707-3547"
+    - family-names: Wenger
+      given-names: "Catherine G. C."
+      orcid: "https://orcid.org/0009-0002-5564-0630"
+    - family-names: Armah
+      given-names: "George E."
+      orcid: "https://orcid.org/0000-0001-6078-9953"
+    - family-names: Cunliffe
+      given-names: "Nigel A."
+      orcid: "https://orcid.org/0000-0002-5449-4988"
+    - family-names: Jere
+      given-names: "Khuzwayo C."
+      orcid: "https://orcid.org/0000-0003-3376-8529"
+    - family-names: Bilcke
+      given-names: Joke
+      orcid: "https://orcid.org/0000-0001-5720-5291"
+    - family-names: Beutels
+      given-names: Philippe
+      orcid: "https://orcid.org/0000-0001-5034-3595"
+    - family-names: Pitzer
+      given-names: "Virginia E."
+      orcid: "https://orcid.org/0000-0003-1015-2289"
+  journal: medRxiv
+  year: 2026
+  month: 5
+  doi: "10.64898/2026.05.12.26353029"
+  notes: "Preprint, posted 2026-05-15. PMID: 42180371; PMCID: PMC13193085."

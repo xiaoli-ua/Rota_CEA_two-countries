@@ -1,6 +1,37 @@
-Authors: Xiao Li, Joke Bilcke, CHERMID, Philippe Beutels, University of Antwerp, Belgium
-Ernest O. Asare, Catherine G. C. Wenger, Virginia E. Pitzer, Yale University 
-Maintainer: Xiao Li <xiao.li@uantwerpen.be>
-Description: This project aims to analyse the cost-effective threshold price for alternative infant and neonatal rotavirus vaccines for Malawi and Ghana
-License: GPL-3
+Authors:
+    Xiao Li, Joke Bilcke, CHERMID, Philippe Beutels, University of Antwerp, Belgium,
+    Ernest O. Asare, Catherine G. C. Wenger, Virginia E. Pitzer, Yale University
 
+Maintainer:
+    Xiao Li <xiao.li@uantwerpen.be>
+
+Description:
+    This project aims to analyse the cost-effective threshold price for
+    alternative infant and neonatal rotavirus vaccines for Malawi and Ghana
+
+License:
+    GPL-3
+
+Depends:
+    R (>= 4.0.0)
+
+Imports:
+    abind, compare, cowplot, dampack, devtools, doParallel, dplyr, foreach,
+    gamlss, ggplot2, ggpubr, ggrepel, gridExtra, ISOweek, lubridate, MESS,
+    mgcv, openxlsx, ps, RColorBrewer, readxl, scales, statmod, stringr,
+    tidyr, tidyverse, useful, wbstats, XML
+
+Base (bundled with R, no install needed):
+    grid, splines
+
+Remotes:
+    lwillem/simid_rtools (>= 0.1.48)
+
+Notes:
+    - All CRAN packages above plus 'simid.rtools' are installed/loaded
+      automatically by function/load_package.R (via simid.rtools::smd_load_packages),
+      so a manual install.packages() run is not required before sourcing main.R.
+    - 'simid.rtools' is not on CRAN; it is installed from GitHub
+      (https://github.com/lwillem/simid_rtools) the first time main.R is run.
+    - If 'dampack' is unavailable on CRAN at installation time, install it from
+      GitHub instead (DARTH-git/dampack).
