@@ -1,0 +1,6 @@
+Authors: Xiao Li, Joke Bilcke, CHERMID, Philippe Beutels, University of Antwerp, Belgium
+Ernest O. Asare, Catherine G. C. Wenger, Virginia E. Pitzer, Yale University 
+Maintainer: Xiao Li <xiao.li@uantwerpen.be>
+Description: This project aims to analyse the cost-effective threshold price for alternative infant and neonatal rotavirus vaccines for Malawi and Ghana
+License: GPL-3
+
