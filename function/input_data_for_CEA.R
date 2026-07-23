@@ -326,19 +326,19 @@ get_rota_ce_config <- function(configList)
   
  
   if(config$ISO3 == "MWI"){
-   Sche_1to6to10_dop  = readxl::read_excel("./input/MWI_wv_5000_simulations.xlsx", sheet ="wv" )
+   Sche_1to6to10_dop  = readxl::read_excel("./input/MWI_dop_wv_5000_simulations.xlsx", sheet ="wv" )
    config$Sche_1to6to10_dop  =  Sche_1to6to10_dop$wv_RV3BB_dop_pooled[1:num_sim]
    }
   
   # added for scenario analysis
   if(config$ISO3 == "MWI" & config$schedule=="RV3BB_1to6to10_reducedVE"){
-    Sche_1to6to10_dop  = readxl::read_excel("./input/opv_ghana_malawi_wv_sampling_results.xlsx", sheet ="sampling_wv" )
+    Sche_1to6to10_dop  = readxl::read_excel("./input/MWI_dop_rv3bb_1to6to10_reducedVE.xlsx", sheet ="sampling_wv" )
     config$Sche_1to6to10_dop  =  Sche_1to6to10_dop$wv_RV3BB_dop[1:num_sim]
   }
   
   if(config$ISO3 == "GHA"){
     ### Need to check the dop in Ghana
-    Sche_1to6to10_dop  = readxl::read_excel("./input/GHA_wv_5000_simulations.xlsx", sheet ="wv" )
+    Sche_1to6to10_dop  = readxl::read_excel("./input/GHA_dop_wv_5000_simulations.xlsx", sheet ="wv" )
     config$Sche_1to6to10_dop = Sche_1to6to10_dop$wv_RV3BB_dop_pooled[1:num_sim]
     }
   
