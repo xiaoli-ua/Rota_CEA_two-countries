@@ -66,7 +66,7 @@ All code is tested with R Version 4.3.1 on MacOS 26.5
 -	Pitzer, V. E. et al. Impact of rotavirus vaccination in Malawi from 2012 to 2022 compared to model predictions. NPJ Vaccines 9, 227 (2024).
 
 
-Acknowledgments
+## Acknowledgements
 We gratefully acknowledge Professor Lander Willem for his extensive support with the R programming.
 
 ------------------------------------------------------------------------
