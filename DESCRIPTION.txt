@@ -13,7 +13,10 @@ License:
     GPL-3
 
 Depends:
-    R (>= 4.0.0)
+    R (>= 4.3.1)
+
+SystemRequirements:
+    Tested with R 4.3.1 on macOS 26.5
 
 Imports:
     abind, compare, cowplot, dampack, devtools, doParallel, dplyr, foreach,

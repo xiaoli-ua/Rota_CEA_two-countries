@@ -33,7 +33,7 @@ The main script uses an xlsx file in the "config" directory, of which each row s
 
 </p>
 
-All code is tested with R Version 4.3.1 on MacOS 13.7
+All code is tested with R Version 4.3.1 on MacOS 26.5
 
 ## Coding tips
 - **Parallel worker messages**  
