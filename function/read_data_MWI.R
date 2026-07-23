@@ -59,7 +59,6 @@ table5 = paste0("PJ2:PS",nrow_read+2)
 
 
  # added an OPV reduced RV3-BB scenario 
-
  RV3BB_1to6to10_reducedVE_modseve <- readxl::read_excel("./input/opv_ghana_malawi_wv_sampling_results.xlsx", sheet = "rv3-bb_sampling_wv_malawi", range = table1)
  RV3BB_1to6to10_reducedVE_nonseve <- readxl::read_excel("./input/opv_ghana_malawi_wv_sampling_results.xlsx", sheet = "rv3-bb_sampling_wv_malawi", range = table2)
  
@@ -79,7 +78,7 @@ change_first_col <- function(df) {
 # Apply the function to each data frame in the list
 L_data_all <- lapply(L_data_all, change_first_col)
 
-#### doseage
+#### doses
 
 L_dose = list() 
 
