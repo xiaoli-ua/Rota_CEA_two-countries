@@ -35,6 +35,8 @@ The main script uses an xlsx file in the "config" directory, of which each row s
 
 The `input` directory also includes two reference files that are not read directly by the R scripts: `MWI_metadata.xlsx`, which contains information on the files with the estimated rotavirus burden in Malawi obtained from a dynamic transmission model, and `MWI_population.xlsx`, kept for additional context.
 
+**Note on repository size:** the `input` directory holds the full dynamic transmission model output per vaccination strategy and country, so the repository is rather large (~300 MB in total). No individual file exceeds ~31 MB, so cloning and pushing work without issues, but be aware that a full clone will take a little while and download a few hundred MB.
+
 All code is tested with R Version 4.3.1 on MacOS 26.5
 
 ## Coding tips
