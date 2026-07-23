@@ -33,6 +33,8 @@ The main script uses an xlsx file in the "config" directory, of which each row s
 
 </p>
 
+The `input` directory also includes two reference files that are not read directly by the R scripts: `MWI_metadata.xlsx`, which contains information on the files with the estimated rotavirus burden in Malawi obtained from a dynamic transmission model, and `MWI_population.xlsx`, kept for additional context.
+
 All code is tested with R Version 4.3.1 on MacOS 26.5
 
 ## Coding tips
