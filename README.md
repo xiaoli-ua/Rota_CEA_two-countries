@@ -1,4 +1,4 @@
-# README: Cost-effective threshold price for alternative infant and neonatal rotavirus vaccines in Malawi and Ghana 
+# Cost-effective threshold price for alternative infant and neonatal rotavirus vaccines in Malawi and Ghana 
 
 The objective of this rotavirus cost-effectiveness modelling project is to identify the conditions under which switching to RV3-BB is optimal in Malawi and Ghana. We built a decision tree on the validated, country-calibrated transmission models to conduct a full incremental cost-effectiveness analysis comparing all relevant vaccination strategies in both countries.
 
