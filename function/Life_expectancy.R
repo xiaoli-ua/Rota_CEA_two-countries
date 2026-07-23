@@ -4,7 +4,7 @@
 # 
 # => Estimate life expectancy (undiscounted and discounted)
 #
-#  Copyright 2025, CHERMID, UNIVERSITY OF ANTWERP
+#  Copyright 2026, CHERMID, UNIVERSITY OF ANTWERP
 #############################################################################
 
 get_LE_YLL = function(disc_effect){

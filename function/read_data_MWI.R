@@ -4,7 +4,7 @@
 # 
 # => READ THE OUTPUTS OF THE DYNAMIC MODELS
 #
-#  Copyright 2025, CHERMID, UNIVERSITY OF ANTWERP
+#  Copyright 2026, CHERMID, UNIVERSITY OF ANTWERP
 ############################################################################ #
 
 # read the output file from the dynamic models for Malawi

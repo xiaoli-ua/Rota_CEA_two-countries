@@ -4,7 +4,7 @@
 # 
 # => CALCULATE DISEASE BURDEN
 #
-#  Copyright 2025, CHERMID, UNIVERSITY OF ANTWERP
+#  Copyright 2026, CHERMID, UNIVERSITY OF ANTWERP
 #############################################################################
 
 get_DiseasBurden = function (){

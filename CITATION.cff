@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Rota_CEA_two-countries: Cost-Effective Threshold Price for Alternative Infant and Neonatal Rotavirus Vaccines — A Dual-Country Evaluation"
+type: software
+version: 1.0.0
+date-released: "2026-07-23"
+license: GPL-3.0
+repository-code: "https://github.com/xiaoli-ua/Rota_CEA_two-countries"
+authors:
+  - family-names: Li
+    given-names: Xiao
+    affiliation: "CHERMID, University of Antwerp, Belgium"
+    email: xiao.li@uantwerpen.be
+  - family-names: Bilcke
+    given-names: Joke
+    affiliation: "CHERMID, University of Antwerp, Belgium"
+  - family-names: Asare
+    given-names: "Ernest O."
+    affiliation: "Yale University, USA"
+  - family-names: Wenger
+    given-names: "Catherine G. C."
+    affiliation: "Yale University, USA"
+  - family-names: Pitzer
+    given-names: "Virginia E."
+    affiliation: "Yale University, USA"
+  - family-names: Beutels
+    given-names: Philippe
+    affiliation: "CHERMID, University of Antwerp, Belgium"
+keywords:
+  - cost-effectiveness analysis
+  - rotavirus vaccine
+  - Malawi
+  - Ghana
+  - health economics

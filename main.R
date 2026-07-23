@@ -28,7 +28,7 @@ source("./function/read_data_GHA.R")
 # disease burden data
 source("./function/diseaseBurden.R") 
 # import cost-effectiveness analysis input data
-source("./function/input data for CEA.R")
+source("./function/input_data_for_CEA.R")
 source("./function/Life_expectancy.R")
 source("./function/Death_byAge.R")
 source("./function/YLL_byAge.R")
@@ -38,7 +38,7 @@ source("./function/IncrementalAnalyais.R")
 source("./function/CEAC.R")
 source("./function/EVPPI.R")
 source("./function/One_way_threshold.R")
-source("./function/Two-way price threshold analysis.R")
+source("./function/Two_way_price_threshold_analysis.R")
 
 
 
@@ -472,7 +472,7 @@ ggsave(Plot_oneway_societal,file = paste0(sim_output_filename,paste0("/Plot_",ru
 # Two-way price threshold 
 
 if(bool_plot_threshold_price_TwoWay ){
-source("./function/Two_way_threshold plot.R")
+source("./function/Two_way_threshold_plot.R")
 } # end of the two way
 
 

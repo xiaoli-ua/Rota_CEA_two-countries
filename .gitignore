@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Office lock/temp files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
+
+# model output
+output/
